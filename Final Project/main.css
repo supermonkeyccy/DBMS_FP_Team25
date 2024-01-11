@@ -1,0 +1,32 @@
+.btn{
+    background-color: hsl(0, 0%, 80%);
+}
+.btn:hover{
+    background-color: hsl(0, 0%, 90%);
+}
+.CRUD{
+    color:black;
+    font-size: 50px;
+    padding: 20px 25px;
+    border: 3px solid;
+    border-radius: 15px;
+    margin: 10px;
+}
+#start{
+    color:black;
+    font-size: 30px;
+    padding: 10px 15px;
+    border: 3px solid;
+    border-radius: 5px;
+}
+#Experience_Submit{
+    padding: 3px 5px;
+    border:1px solid;
+    border-radius: 5px;
+}
+#search{
+    color:black;
+    padding: 3px 5px;
+    border: 2px solid;
+    border-radius: 3px;
+}
